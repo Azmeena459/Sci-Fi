@@ -32,11 +32,11 @@
 - Experience sci-fi-inspired effects and animations.
 
 ## 📷 Screenshots
-![Sci-Fi Screenshot](screenshot.png)
+
 
 ## 🔧 Technologies Used
-- **Backend**: Python, Node.js, Flask/Django (if applicable)
-- **AI/ML**: OpenAI, TensorFlow, or other AI libraries (if applicable)
+- **Backend**: Python
+- **AI/ML**: OpenAI, TensorFlow
 
 ## 💡 Future Enhancements
 - Expand AI capabilities.
@@ -46,8 +46,6 @@
 ## 🤝 Contributing
 Contributions are welcome! Feel free to submit issues and pull requests.
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 For questions or suggestions, reach out to [Azmeena](https://github.com/Azmeena459).
